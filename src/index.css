@@ -27,10 +27,11 @@
    modified_Lifejarai_v2.pptx. */
 :root {
   --bg-color: #0b1424;           /* deep navy backdrop */
-  --primary-color: #2fa7f7;      /* bright electric blue */
-  --secondary-color: #7a5cff;    /* saturated purple */
-  --accent-pink: #f47983;        /* coral pink */
-  --accent-gold: #efc94c;        /* golden yellow */
+  /* Updated palette codes based on the extracted logo colours */
+  --primary-color: #0AC3F7;      /* neon blue from LifeJar logo */
+  --secondary-color: #7A5CFF;    /* saturated purple from logo */
+  --accent-pink: #F47983;        /* coral pink from logo */
+  --accent-gold: #EFC94C;        /* golden yellow from logo */
   --text-color: #ffffff;         /* base text colour (white) */
   --muted-color: #8aa5c9;        /* muted blueâ€‘grey for secondary text */
   --card-bg: rgba(255, 255, 255, 0.05); /* semiâ€‘transparent card background */
